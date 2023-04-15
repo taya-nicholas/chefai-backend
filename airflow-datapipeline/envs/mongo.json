@@ -1,0 +1,10 @@
+{
+  "Connection Id": "mongo_atlas",
+  "Connection Type": "MongoDB",
+  "Host": "<name>.<code>.mongodb.net",
+  "Login": "<username>",
+  "Password": "<password>",
+  "Extra": {
+    "srv": "true"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "openai_apikey": "<key>",
+  "rds_host": "<database_name>.<code>.<region>.rds.amazonaws.com",
+  "rds_password": "<password>",
+  "rds_user": "<user_name>",
+  "s3_access_key": "<key>",
+  "s3_secret": "<key>",
+  "stable_api_key": "<key>"
+}
